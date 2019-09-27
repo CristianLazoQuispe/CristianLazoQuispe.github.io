@@ -276,6 +276,8 @@ compress_html:
   ignore:
     envs: development
 # Defaults
+
+
 defaults:
   # _posts
   - scope:
@@ -290,10 +292,3 @@ defaults:
       related: true
 
   # _pages
-
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
