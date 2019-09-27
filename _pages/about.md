@@ -1,5 +1,6 @@
 ---
 title: "About"
+layout: archive
 permalink: /about/
 header:
   images: "/images/zakim.jpg"
