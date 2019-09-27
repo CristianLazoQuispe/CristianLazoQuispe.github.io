@@ -108,26 +108,26 @@ analytics:
 # Site Author
 author:
   name             : "Cristian Lazo Quispe"
-  avatar           : "/assets/images/face.jpg"
+  avatar           :  "/assets/images/face.jpg"
   bio              : "I am a Mechatronic Engineer."
   location         : "Lima,Peru"
   email            : "clazoq@uni.pe"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:clazoq@gmail.com
+       url: mailto:clazoq@gmail.com
     - label: "Linkelin"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/CristianLazoQ"
+       url: "https://twitter.com/CristianLazoQ"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/CristianLazoQuispe"
+       url: "https://github.com/CristianLazoQuispe"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
