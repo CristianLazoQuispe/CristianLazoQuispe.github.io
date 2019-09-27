@@ -115,9 +115,9 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:clazoq@gmail.com
+      #url: mailto:clazoq@gmail.com
     - label: "Linkedin"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/cristian-lazo-quispe/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
